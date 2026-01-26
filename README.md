@@ -32,23 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
-
-## 🔥 Contribution Graph
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itamitbhai&theme=default)
-
----
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itamitbhai&layout=compact)
-
----
 
 ## 📂 Featured Projects
 
