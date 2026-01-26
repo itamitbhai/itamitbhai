@@ -40,13 +40,13 @@
 
 ## 🔥 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itamitbhai&theme=default)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itamitbhai&layout=compact)
 
 ---
 
@@ -62,9 +62,9 @@ _(More projects coming soon…)_
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: yourname@email.com
+- GitHub: https://github.com/itamitbhai
+- LinkedIn: https://www.linkedin.com/in/amit-kumar-a4b990292
+- Email: yadavamit57354@email.com
 
 ---
 
