@@ -67,16 +67,4 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-![snake gif](https://github.com/itamitbhai/itamitbhai/blob/output/github-snake-dark.svg)
-
----
-
-<div align="center">
-
-💛 **Thanks for visiting my profile** 🚀
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:ff0080"/>
